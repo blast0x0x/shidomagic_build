@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96">
+	<title>android-chrome-192x192</title>
+	<defs>
+		<image  width="120" height="120" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAMAAAAOusbgAAAAAXNSR0IB2cksfwAAAEtQTFRFFhcZZGVmjIyNgYKDICEjsbKy////7OzsKiossrKzsbKzgYGDt7e3tre3qaqqIyQmdStRpDVtpDVsmDNlIhogsTh0/0ii7ESWKhsk/O43TQAAAH5JREFUeJzt2lsOgjAURVEQFVR8ACrOf6RMoTU3abRrTWB/Njm3TQMAAPybdhem2+eED8cw/ZATPgkLCwsLpzpXF76MUa63e04YgGSPaY6yPHPCr3eY9SMsLCwsLBwSLvYsApCs2NxU37JX33orLCws/HW42Km+2OcEAADgF2zpcqM7TqbFzwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="-12" y="-12"/>
+</svg>
