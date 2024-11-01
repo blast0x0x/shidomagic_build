@@ -7,8 +7,8 @@
     "runtime-main.js": "/static/js/runtime-main.e692115e.js",
     "runtime-main.js.map": "/static/js/runtime-main.e692115e.js.map",
     "static/css/3.ecdd39c8.chunk.css": "/static/css/3.ecdd39c8.chunk.css",
-    "static/js/3.9557a486.chunk.js": "/static/js/3.9557a486.chunk.js",
-    "static/js/3.9557a486.chunk.js.map": "/static/js/3.9557a486.chunk.js.map",
+    "static/js/3.61f1e929.chunk.js": "/static/js/3.61f1e929.chunk.js",
+    "static/js/3.61f1e929.chunk.js.map": "/static/js/3.61f1e929.chunk.js.map",
     "static/js/4.3a27933e.chunk.js": "/static/js/4.3a27933e.chunk.js",
     "static/js/4.3a27933e.chunk.js.map": "/static/js/4.3a27933e.chunk.js.map",
     "static/js/5.914ad825.chunk.js": "/static/js/5.914ad825.chunk.js",
@@ -64,7 +64,7 @@
     "static/css/6.78dbf52a.chunk.css.map": "/static/css/6.78dbf52a.chunk.css.map",
     "static/css/7.a5265f3e.chunk.css.map": "/static/css/7.a5265f3e.chunk.css.map",
     "static/js/0.91af8076.chunk.js.LICENSE.txt": "/static/js/0.91af8076.chunk.js.LICENSE.txt",
-    "static/js/3.9557a486.chunk.js.LICENSE.txt": "/static/js/3.9557a486.chunk.js.LICENSE.txt",
+    "static/js/3.61f1e929.chunk.js.LICENSE.txt": "/static/js/3.61f1e929.chunk.js.LICENSE.txt",
     "static/js/4.3a27933e.chunk.js.LICENSE.txt": "/static/js/4.3a27933e.chunk.js.LICENSE.txt",
     "static/media/all-bunnies.82a075e3.png": "/static/media/all-bunnies.82a075e3.png",
     "static/media/cakers-share.861e6e70.png": "/static/media/cakers-share.861e6e70.png",
@@ -79,7 +79,7 @@
   "entrypoints": [
     "static/js/runtime-main.e692115e.js",
     "static/css/3.ecdd39c8.chunk.css",
-    "static/js/3.9557a486.chunk.js",
+    "static/js/3.61f1e929.chunk.js",
     "static/js/main.f105c06b.chunk.js"
   ]
 }
